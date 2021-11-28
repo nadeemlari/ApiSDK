@@ -1,4 +1,4 @@
-namespace WebApi
+namespace WebApi.Contract
 {
     public class WeatherForecast
     {
